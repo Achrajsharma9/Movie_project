@@ -24,15 +24,11 @@ CineSphere is a web application that allows users to check movie ratings, explor
 ## 🛠 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cinesphere.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd cinesphere
-   ```
+   git clone https://github.com/Achrajsharma9/cinesphere.git
+
 3. Install dependencies:
    ```bash
-   npm install
+   npm i
    ```
 4. Run the development server:
    ```bash
